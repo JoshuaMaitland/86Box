@@ -800,6 +800,7 @@ extern int machine_at_cuv4xls_init(const machine_t *);
 extern int machine_at_6via90ap_init(const machine_t *);
 extern int machine_at_s1857_init(const machine_t *);
 extern int machine_at_p6bap_init(const machine_t *);
+extern int machine_at_av11_init(const machine_t *);
 extern int machine_at_p6bat_init(const machine_t *);
 
 /* m_at_misc.c */
