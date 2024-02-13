@@ -747,6 +747,7 @@ extern int machine_at_m6mi_init(const machine_t *);
 extern void machine_at_p65up5_common_init(const machine_t *, const device_t *northbridge);
 #endif
 extern int machine_at_p65up5_cp6nd_init(const machine_t *);
+extern int machine_at_xp6np5_init(const machine_t *);
 
 /* m_at_slot1.c */
 extern int machine_at_m729_init(const machine_t *);
